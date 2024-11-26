@@ -1,8 +1,8 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Dev-Ecommerce </h1>
 
 <p align="center">
 Projeto desenvolvido atráves de um bootcamp pela universidade nove de julho. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Conheça o projeto clicando aqui.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Conheça clicando aqui.</a>
 </p>
 <br>
 
@@ -22,9 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Allin One é um site e-commerce para acesso dos clientes virtualmente.
-
-- [Acesse o projeto finalizado, online](https://github.com/Ivanedev/dev-ecommerce)
+O Allin One é um site virtual e-commerce, responsivo, com acesso livre.
 
 
 ## 🔖 Layout
