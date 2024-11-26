@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> dev-ecommerce </h1>
 
 <p align="center">
 Projeto desenvolvido atráves de um bootcamp pela universidade nove de julho. <br/>
@@ -21,9 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Allin One é um site e-commerce para acesso dos clientes virtualmente.
+O Allin One é um site e-commerce online, responsivo, para acesso a todos.
 
-- [Acesse o projeto finalizado, online](https://github.com/Ivanedev/dev-ecommerce)
 
 
 ## 🔖 Layout
